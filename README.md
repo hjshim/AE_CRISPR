@@ -1,2 +1,2 @@
 # AE_CRISPR
-Autoencoder for CRISPR
+Autoencoder for representation learning in CRISPR arrays
